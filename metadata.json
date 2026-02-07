@@ -1,0 +1,8 @@
+{
+  "name": "ConveyanceTrack Pro",
+  "description": "An enterprise-grade conveyance tracking system with AI-powered odometer OCR, GPS logging, and manager approval workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
